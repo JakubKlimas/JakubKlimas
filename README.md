@@ -19,7 +19,5 @@
   
  ### Stats: 
 ![Jakub Klimas GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubKlimas&hide=contribs,prs,issues?username=anuraghazra&show_icons=true&theme=algolia)
-
-<summary>:zap: Recent GitHub Activity</summary>
  
 [linkedin]: https://www.linkedin.com/in/jakub-klimas-637856203/

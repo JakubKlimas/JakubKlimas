@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @JakubKlimas
 - 👀 I’m interested in problem solving and finding solutions for everyday’s obstacles.
-- 🌱 I’m currently learning Testing methods.
-- ✨I’m looking for an opportunity to gain my first experience as a tester.
+- 🌱 I’m currently learning Test automation methods.
+- ✨I’m QA Engineer Intern.
 
 ### How to reach me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]

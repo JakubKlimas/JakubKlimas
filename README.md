@@ -4,7 +4,7 @@
 - ✨I’m QA Engineer Intern.
 
 ### How to reach me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 <a href="mailto:jakub.wincent.klimas@gmail.com"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
  <br /> 
 ### Languages and Tools:

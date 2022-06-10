@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @JakubKlimas
 - 👀 I’m interested in problem solving and finding solutions for everyday’s obstacles.
-- 🌱 I’m IT Dojo aplication developer <a href='https://apps.apple.com/pl/app/it-dojo/id1628099388?l=pl&fbclid=IwAR1UyzEivTzuA5pbmQNnqRdDsElIiJXDi-wZ6-ctr_4nbA3wfyJLKVR0N4c'> link </a>.
+- 🌱 I’m IT Dojo application developer <a href='https://apps.apple.com/pl/app/it-dojo/id1628099388?l=pl&fbclid=IwAR1UyzEivTzuA5pbmQNnqRdDsElIiJXDi-wZ6-ctr_4nbA3wfyJLKVR0N4c'> link </a>.
 - :ocean: I'm currently improving my React skills and learning Vue.
 - :milky_way: I’m Frontend Engineer.
 

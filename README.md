@@ -14,7 +14,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="GitHub" width="26px" src="https://icons-for-free.com/iconfiles/png/512/code+collaboration+github+network+round+social+icon-1320086084536018107.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="uTest" width="26px" src="https://seeklogo.com/images/U/utest-logo-25A12C4C0A-seeklogo.com.gif" />
+<img align="left" alt="uTest" width="26px" height='26px src="https://seeklogo.com/images/U/utest-logo-25A12C4C0A-seeklogo.com.gif" />
  <br />
   
  ### Stats: 
